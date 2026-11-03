@@ -1,0 +1,20 @@
+{
+  "name": "LifeMOD — RPG de hábitos",
+  "short_name": "LifeMOD",
+  "description": "Tu vida es el juego: sube de nivel cumpliendo hábitos reales, invoca equipo y derrota jefes.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#120d2b",
+  "theme_color": "#1b1442",
+  "categories": ["games", "health", "lifestyle", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
